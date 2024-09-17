@@ -5,9 +5,9 @@ GUILHERME MORAIS VASQUES - RA: 2023011985
 
 JAINE BENTO DOS SANTOS - RA: 2023009646
 
-O projeto é um sistema de biblioteca de pequeno porte. As aulas escolhidas foram:
+O projeto é um sistema de biblioteca de pequeno porte, que foi desenvolvido para facilitar o gerenciamento e para organizar a entrada e saida dos livros.. As classes escolhidas e representadas foram:
 
-Usuário - utilizado para identificar o usuário e garantir a segurança do acesso ao sistema. Retorno: nome do usuário, email e senha correta/incorreta.
+Home- página principal após o login serve como um painel de controle para o usuário.
 
 Catálogos de livros - utilizados para informar os livros registrados no sistema e organizar os disponíveis para empréstimos. Retorno: os livros que estão disponíveis para empréstimo.
 
